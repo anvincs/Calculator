@@ -2,4 +2,4 @@
 
 A simple calculator built using React JS
 
-[View](https://anvin23.github.io/Calculator/) the site 
+[View](https://anvincs.github.io/Calculator/) the site 
